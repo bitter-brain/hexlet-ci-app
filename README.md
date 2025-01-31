@@ -1,3 +1,4 @@
+[![theory unit](https://github.com/bitter-brain/hexlet-ci-app/actions/workflows/theory.yml/badge.svg)](https://github.com/bitter-brain/hexlet-ci-app/actions/workflows/theory.yml)
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
